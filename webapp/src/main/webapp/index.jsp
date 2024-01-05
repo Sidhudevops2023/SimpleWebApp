@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange"> sidhu shopping site</span>
+            <span style="font-size:64px;margin-right:10px;color:orange"> ABHI GOUD KALLU DHUKANAM</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Currenly mobile offers on iphones only</h1>   
+         <h1>PURE TODDY AVALIABLE HERE</h1>   
 	 
 
     </section>    
